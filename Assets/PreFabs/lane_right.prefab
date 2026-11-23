@@ -108,3 +108,9 @@ MonoBehaviour:
     mStartSample: 0
     mEndSample: 0
   lane: {fileID: 0}
+  startColor: {r: 0.509434, g: 0.36753806, b: 0.10813459, a: 1}
+  glowColor: {r: 1, g: 0.9957009, b: 0.6462264, a: 1}
+  glowStart: 0.6
+  growAmount: 0.2
+  missedColor: {r: 0.35, g: 0.35, b: 0.35, a: 1}
+  fadeSpeed: 2

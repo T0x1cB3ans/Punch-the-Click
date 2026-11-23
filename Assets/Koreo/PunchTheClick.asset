@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: SonicBloom.Koreo.dll::SonicBloom.Koreo.Koreography
   mSourceClip: {fileID: 8300000, guid: 521a6634e586741db8e744f5ea9b214a, type: 3}
   mAudioFilePath: 
-  mSampleRate: 48000
+  mSampleRate: 44100
   mIgnoreLatencyOffset: 0
   mTempoSections:
   - sectionName: New Section
     startSample: 0
-    samplesPerBeat: 27169.811320754718
+    samplesPerBeat: 27208.22622107969
     beatsPerMeasure: 4
     bStartNewMeasure: 1
   mTracks:

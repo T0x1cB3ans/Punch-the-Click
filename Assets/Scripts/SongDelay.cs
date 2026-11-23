@@ -7,7 +7,7 @@ public class SongDelay : MonoBehaviour
 {
     public SimpleMusicPlayer musicPlayer;
     public Koreography koreography;
-    public float delaySeconds = 2f;
+    public float delaySeconds = 3f;
 
     IEnumerator Start()
     {

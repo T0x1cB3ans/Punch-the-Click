@@ -52,6 +52,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6618237273304875924, guid: fa5da1e55877c4d859613fb126f33339, type: 3}
+      propertyPath: fadeSpeed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618237273304875924, guid: fa5da1e55877c4d859613fb126f33339, type: 3}
+      propertyPath: glowColor.b
+      value: 0.6462264
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618237273304875924, guid: fa5da1e55877c4d859613fb126f33339, type: 3}
+      propertyPath: glowColor.g
+      value: 0.9957009
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618237273304875924, guid: fa5da1e55877c4d859613fb126f33339, type: 3}
+      propertyPath: glowColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618237273304875924, guid: fa5da1e55877c4d859613fb126f33339, type: 3}
+      propertyPath: startColor.b
+      value: 0.10813459
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618237273304875924, guid: fa5da1e55877c4d859613fb126f33339, type: 3}
+      propertyPath: startColor.g
+      value: 0.36753806
+      objectReference: {fileID: 0}
+    - target: {fileID: 6618237273304875924, guid: fa5da1e55877c4d859613fb126f33339, type: 3}
+      propertyPath: startColor.r
+      value: 0.509434
+      objectReference: {fileID: 0}
     - target: {fileID: 7684589621914281906, guid: fa5da1e55877c4d859613fb126f33339, type: 3}
       propertyPath: m_Name
       value: lane_down Variant Variant

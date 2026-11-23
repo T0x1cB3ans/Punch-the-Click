@@ -14,116 +14,104 @@ MonoBehaviour:
   m_EditorClassIdentifier: SonicBloom.Koreo.dll::SonicBloom.Koreo.KoreographyTrack
   mEventID: right_arrow_press
   mEventList:
-  - mStartSample: 226415
-    mEndSample: 226415
-  - mStartSample: 307924
-    mEndSample: 307924
-  - mStartSample: 362264
-    mEndSample: 362264
-  - mStartSample: 498113
-    mEndSample: 498113
-  - mStartSample: 579622
-    mEndSample: 579622
-  - mStartSample: 688302
-    mEndSample: 688302
-  - mStartSample: 905660
-    mEndSample: 905660
-  - mStartSample: 1014339
-    mEndSample: 1014339
-  - mStartSample: 1123019
-    mEndSample: 1123019
-  - mStartSample: 1177358
-    mEndSample: 1177358
-  - mStartSample: 1313207
-    mEndSample: 1313207
-  - mStartSample: 1449056
-    mEndSample: 1449056
-  - mStartSample: 1530566
-    mEndSample: 1530566
-  - mStartSample: 1584906
-    mEndSample: 1584906
-  - mStartSample: 1693585
-    mEndSample: 1693585
-  - mStartSample: 1829434
-    mEndSample: 1829434
-  - mStartSample: 2019622
-    mEndSample: 2019622
-  - mStartSample: 2128302
-    mEndSample: 2128302
-  - mStartSample: 2318490
-    mEndSample: 2318490
-  - mStartSample: 2454339
-    mEndSample: 2454339
-  - mStartSample: 2671698
-    mEndSample: 2671698
-  - mStartSample: 2834717
-    mEndSample: 2834717
-  - mStartSample: 3079245
-    mEndSample: 3079245
-  - mStartSample: 3160755
-    mEndSample: 3160755
-  - mStartSample: 3513962
-    mEndSample: 3513962
-  - mStartSample: 3704151
-    mEndSample: 3704151
-  - mStartSample: 4003019
-    mEndSample: 4003019
-  - mStartSample: 4383396
-    mEndSample: 4383396
-  - mStartSample: 4464906
-    mEndSample: 4464906
-  - mStartSample: 4763773
-    mEndSample: 4763773
-  - mStartSample: 4981132
-    mEndSample: 4981132
-  - mStartSample: 5252830
-    mEndSample: 5252830
-  - mStartSample: 5280000
-    mEndSample: 5280000
-  - mStartSample: 5470189
-    mEndSample: 5470189
-  - mStartSample: 5823396
-    mEndSample: 5823396
-  - mStartSample: 6258113
-    mEndSample: 6258113
-  - mStartSample: 6502641
-    mEndSample: 6502641
-  - mStartSample: 6665660
-    mEndSample: 6665660
-  - mStartSample: 7073207
-    mEndSample: 7073207
-  - mStartSample: 7263396
-    mEndSample: 7263396
-  - mStartSample: 7480755
-    mEndSample: 7480755
-  - mStartSample: 7616604
-    mEndSample: 7616604
-  - mStartSample: 8051321
-    mEndSample: 8051321
-  - mStartSample: 8377358
-    mEndSample: 8377358
-  - mStartSample: 8703396
-    mEndSample: 8703396
-  - mStartSample: 8730566
-    mEndSample: 8730566
-  - mStartSample: 9029434
-    mEndSample: 9029434
-  - mStartSample: 9301132
-    mEndSample: 9301132
-  - mStartSample: 9355472
-    mEndSample: 9355472
-  - mStartSample: 9572830
-    mEndSample: 9572830
-  - mStartSample: 9735849
-    mEndSample: 9735849
-  - mStartSample: 9898868
-    mEndSample: 9898868
-  - mStartSample: 10143396
-    mEndSample: 10143396
-  - mStartSample: 10252075
-    mEndSample: 10252075
-  - mStartSample: 10469434
-    mEndSample: 10469434
+  - mStartSample: 163249
+    mEndSample: 163249
+  - mStartSample: 408123
+    mEndSample: 408123
+  - mStartSample: 544164
+    mEndSample: 544164
+  - mStartSample: 761830
+    mEndSample: 761830
+  - mStartSample: 897871
+    mEndSample: 897871
+  - mStartSample: 1061120
+    mEndSample: 1061120
+  - mStartSample: 1305994
+    mEndSample: 1305994
+  - mStartSample: 1578077
+    mEndSample: 1578077
+  - mStartSample: 1958992
+    mEndSample: 1958992
+  - mStartSample: 2013408
+    mEndSample: 2013408
+  - mStartSample: 2203866
+    mEndSample: 2203866
+  - mStartSample: 2339907
+    mEndSample: 2339907
+  - mStartSample: 2475948
+    mEndSample: 2475948
+  - mStartSample: 2557573
+    mEndSample: 2557573
+  - mStartSample: 2829655
+    mEndSample: 2829655
+  - mStartSample: 3101737
+    mEndSample: 3101737
+  - mStartSample: 3373820
+    mEndSample: 3373820
+  - mStartSample: 3781943
+    mEndSample: 3781943
+  - mStartSample: 3972401
+    mEndSample: 3972401
+  - mStartSample: 4135650
+    mEndSample: 4135650
+  - mStartSample: 4298899
+    mEndSample: 4298899
+  - mStartSample: 4625398
+    mEndSample: 4625398
+  - mStartSample: 4707023
+    mEndSample: 4707023
+  - mStartSample: 4843064
+    mEndSample: 4843064
+  - mStartSample: 5223979
+    mEndSample: 5223979
+  - mStartSample: 5278395
+    mEndSample: 5278395
+  - mStartSample: 5468853
+    mEndSample: 5468853
+  - mStartSample: 5795352
+    mEndSample: 5795352
+  - mStartSample: 5931393
+    mEndSample: 5931393
+  - mStartSample: 6094642
+    mEndSample: 6094642
+  - mStartSample: 6285100
+    mEndSample: 6285100
+  - mStartSample: 6557182
+    mEndSample: 6557182
+  - mStartSample: 6720431
+    mEndSample: 6720431
+  - mStartSample: 6829264
+    mEndSample: 6829264
+  - mStartSample: 6992514
+    mEndSample: 6992514
+  - mStartSample: 7291804
+    mEndSample: 7291804
+  - mStartSample: 7591095
+    mEndSample: 7591095
+  - mStartSample: 7808760
+    mEndSample: 7808760
+  - mStartSample: 7890385
+    mEndSample: 7890385
+  - mStartSample: 7972010
+    mEndSample: 7972010
+  - mStartSample: 8189676
+    mEndSample: 8189676
+  - mStartSample: 8543383
+    mEndSample: 8543383
+  - mStartSample: 8788257
+    mEndSample: 8788257
+  - mStartSample: 8815465
+    mEndSample: 8815465
+  - mStartSample: 8924298
+    mEndSample: 8924298
+  - mStartSample: 9250796
+    mEndSample: 9250796
+  - mStartSample: 9414046
+    mEndSample: 9414046
+  - mStartSample: 9522879
+    mEndSample: 9522879
+  - mStartSample: 9604503
+    mEndSample: 9604503
   _SerializedPayloadTypes: []
   _AssetPayloads: []
   _AssetPayloadIdxs: 

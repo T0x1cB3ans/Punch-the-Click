@@ -12,9 +12,10 @@ public class Lane : MonoBehaviour
     public Transform spawnPoint, hitPoint;
     public Note notePrefab;
     public float leadTimeSeconds = 5f;
-    public float hitWindowMs = 100f;
     public AudioSource music;
     public int Now => music.timeSamples;
+
+    public ScoreManager score;
 
     public int LeadSamples => (int)(leadTimeSeconds * koreography.SampleRate);
 
@@ -26,6 +27,8 @@ public class Lane : MonoBehaviour
 
     void Update()
     {
+        if (PauseMenu.IsPaused) return;
+        
         int now = Now;
         Debug.Log("Song time: " + now);
 
@@ -45,10 +48,11 @@ public class Lane : MonoBehaviour
         {
             var n = active.Peek();
             float offMs = (now - n.evt.StartSample) * 1000f / koreography.SampleRate;
-            if (Mathf.Abs(offMs) <= hitWindowMs)
+            
+            if (score.TryHit(offMs))
             {
-                Debug.Log($"Hit! {offMs:F0} ms");
-                active.Dequeue(); Destroy(n.gameObject);
+                active.Dequeue();
+                Destroy(n.gameObject);
             }
         }
     }
@@ -56,6 +60,7 @@ public class Lane : MonoBehaviour
     public void Miss(Note n)
     {
         if (active.Count > 0 && active.Peek() == n) active.Dequeue();
-        Debug.Log("Miss"); Destroy(n.gameObject);
+        score.Miss(); 
+        n.MarkMissed();
     }
 }

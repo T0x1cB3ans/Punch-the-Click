@@ -14,166 +14,76 @@ MonoBehaviour:
   m_EditorClassIdentifier: SonicBloom.Koreo.dll::SonicBloom.Koreo.KoreographyTrack
   mEventID: up_arrow_press
   mEventList:
-  - mStartSample: 226415
-    mEndSample: 226415
-  - mStartSample: 335094
-    mEndSample: 335094
-  - mStartSample: 498112
-    mEndSample: 498112
-  - mStartSample: 633961
-    mEndSample: 633961
-  - mStartSample: 769811
-    mEndSample: 769811
-  - mStartSample: 824150
-    mEndSample: 824150
-  - mStartSample: 851320
-    mEndSample: 851320
-  - mStartSample: 1095849
-    mEndSample: 1095849
-  - mStartSample: 1150189
-    mEndSample: 1150189
-  - mStartSample: 1286038
-    mEndSample: 1286038
-  - mStartSample: 1394717
-    mEndSample: 1394717
-  - mStartSample: 1503396
-    mEndSample: 1503396
-  - mStartSample: 1747925
-    mEndSample: 1747925
-  - mStartSample: 1938113
-    mEndSample: 1938113
-  - mStartSample: 2073962
-    mEndSample: 2073962
-  - mStartSample: 2101132
-    mEndSample: 2101132
-  - mStartSample: 2400000
-    mEndSample: 2400000
-  - mStartSample: 2535849
-    mEndSample: 2535849
-  - mStartSample: 2563019
-    mEndSample: 2563019
-  - mStartSample: 2698868
-    mEndSample: 2698868
-  - mStartSample: 2807547
-    mEndSample: 2807547
-  - mStartSample: 2916226
-    mEndSample: 2916226
-  - mStartSample: 2943396
-    mEndSample: 2943396
-  - mStartSample: 3187924
-    mEndSample: 3187924
-  - mStartSample: 3405283
-    mEndSample: 3405283
-  - mStartSample: 3595472
-    mEndSample: 3595472
-  - mStartSample: 3676981
-    mEndSample: 3676981
-  - mStartSample: 3704151
-    mEndSample: 3704151
-  - mStartSample: 3894339
-    mEndSample: 3894339
-  - mStartSample: 4003019
-    mEndSample: 4003019
-  - mStartSample: 4057359
-    mEndSample: 4057359
-  - mStartSample: 4220377
-    mEndSample: 4220377
-  - mStartSample: 4356226
-    mEndSample: 4356226
-  - mStartSample: 4492076
-    mEndSample: 4492076
-  - mStartSample: 4546415
-    mEndSample: 4546415
-  - mStartSample: 4573585
-    mEndSample: 4573585
-  - mStartSample: 4845283
-    mEndSample: 4845283
-  - mStartSample: 4899623
-    mEndSample: 4899623
-  - mStartSample: 5035472
-    mEndSample: 5035472
-  - mStartSample: 5144151
-    mEndSample: 5144151
-  - mStartSample: 5252830
-    mEndSample: 5252830
-  - mStartSample: 5497359
-    mEndSample: 5497359
-  - mStartSample: 5660377
-    mEndSample: 5660377
-  - mStartSample: 5796226
-    mEndSample: 5796226
-  - mStartSample: 5823396
-    mEndSample: 5823396
-  - mStartSample: 6122264
-    mEndSample: 6122264
-  - mStartSample: 6258113
-    mEndSample: 6258113
-  - mStartSample: 6285283
-    mEndSample: 6285283
-  - mStartSample: 6421132
-    mEndSample: 6421132
-  - mStartSample: 6584151
-    mEndSample: 6584151
-  - mStartSample: 6692830
-    mEndSample: 6692830
-  - mStartSample: 6720000
-    mEndSample: 6720000
-  - mStartSample: 6964528
-    mEndSample: 6964528
-  - mStartSample: 7181887
-    mEndSample: 7181887
-  - mStartSample: 7372076
-    mEndSample: 7372076
-  - mStartSample: 7453585
-    mEndSample: 7453585
-  - mStartSample: 7480755
-    mEndSample: 7480755
-  - mStartSample: 7670943
-    mEndSample: 7670943
-  - mStartSample: 7779622
-    mEndSample: 7779622
-  - mStartSample: 7833962
-    mEndSample: 7833962
-  - mStartSample: 7996980
-    mEndSample: 7996980
-  - mStartSample: 8132829
-    mEndSample: 8132829
-  - mStartSample: 8268679
-    mEndSample: 8268679
-  - mStartSample: 8323018
-    mEndSample: 8323018
-  - mStartSample: 8350188
-    mEndSample: 8350188
-  - mStartSample: 8621886
-    mEndSample: 8621886
-  - mStartSample: 8676226
-    mEndSample: 8676226
-  - mStartSample: 8812075
-    mEndSample: 8812075
-  - mStartSample: 8920754
-    mEndSample: 8920754
-  - mStartSample: 9029433
-    mEndSample: 9029433
-  - mStartSample: 9273962
-    mEndSample: 9273962
-  - mStartSample: 9436980
-    mEndSample: 9436980
-  - mStartSample: 9572829
-    mEndSample: 9572829
-  - mStartSample: 9599999
-    mEndSample: 9599999
-  - mStartSample: 9898867
-    mEndSample: 9898867
-  - mStartSample: 10034716
-    mEndSample: 10034716
-  - mStartSample: 10061886
-    mEndSample: 10061886
-  - mStartSample: 10197735
-    mEndSample: 10197735
-  - mStartSample: 10360754
-    mEndSample: 10360754
-  - mStartSample: 10469433
-    mEndSample: 10469433
+  - mStartSample: 190188
+    mEndSample: 190188
+  - mStartSample: 298867
+    mEndSample: 298867
+  - mStartSample: 380915
+    mEndSample: 380915
+  - mStartSample: 680205
+    mEndSample: 680205
+  - mStartSample: 1006704
+    mEndSample: 1006704
+  - mStartSample: 1333203
+    mEndSample: 1333203
+  - mStartSample: 1442035
+    mEndSample: 1442035
+  - mStartSample: 1659701
+    mEndSample: 1659701
+  - mStartSample: 1877367
+    mEndSample: 1877367
+  - mStartSample: 1958992
+    mEndSample: 1958992
+  - mStartSample: 2421532
+    mEndSample: 2421532
+  - mStartSample: 2639197
+    mEndSample: 2639197
+  - mStartSample: 2856863
+    mEndSample: 2856863
+  - mStartSample: 3074529
+    mEndSample: 3074529
+  - mStartSample: 3183362
+    mEndSample: 3183362
+  - mStartSample: 3618694
+    mEndSample: 3618694
+  - mStartSample: 3945192
+    mEndSample: 3945192
+  - mStartSample: 4380524
+    mEndSample: 4380524
+  - mStartSample: 4489357
+    mEndSample: 4489357
+  - mStartSample: 5033521
+    mEndSample: 5033521
+  - mStartSample: 5360020
+    mEndSample: 5360020
+  - mStartSample: 5468853
+    mEndSample: 5468853
+  - mStartSample: 5795352
+    mEndSample: 5795352
+  - mStartSample: 6121850
+    mEndSample: 6121850
+  - mStartSample: 6557182
+    mEndSample: 6557182
+  - mStartSample: 6883681
+    mEndSample: 6883681
+  - mStartSample: 7101347
+    mEndSample: 7101347
+  - mStartSample: 7210179
+    mEndSample: 7210179
+  - mStartSample: 7645511
+    mEndSample: 7645511
+  - mStartSample: 7754344
+    mEndSample: 7754344
+  - mStartSample: 8080843
+    mEndSample: 8080843
+  - mStartSample: 8189676
+    mEndSample: 8189676
+  - mStartSample: 8625007
+    mEndSample: 8625007
+  - mStartSample: 9047547
+    mEndSample: 9047547
+  - mStartSample: 9468462
+    mEndSample: 9468462
   _SerializedPayloadTypes: []
   _AssetPayloads: []
   _AssetPayloadIdxs: 
